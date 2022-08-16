@@ -1,7 +1,6 @@
 ### Hi 👋
 
 My name is Sugimoto-yohsi.
-I'm aiming to become an Android engineer.
 
 ### Git Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
